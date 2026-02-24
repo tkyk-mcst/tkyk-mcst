@@ -1,4 +1,4 @@
-<img src="https://github.com/tkyk-mcst/tkyk-mcst/main/takayuki_michishita.png" width="160">
+<img src="https://github.com/tkyk-mcst/tkyk-mcst/blob/main/takayuki_michishita.png" width="160">
 
 # Takayuki Michishita（道下孝之）
 
